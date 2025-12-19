@@ -17,4 +17,4 @@ loop i in range(12)：
 write(my.file,"hello world!")
 ```
 I am doing!<br>
-by!
+bye!
