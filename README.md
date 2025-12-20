@@ -10,7 +10,7 @@ else_if a=1:
   a++
 else:
   a++
-loop i in range(12)：
+loop(12)：
   print("hi")
 #import for_english_py
 #from for_english import *
